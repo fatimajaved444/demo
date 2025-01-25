@@ -1,2 +1,3 @@
 # demo
-new repo<br>fatima
+new repo<br>
+name:fatima
